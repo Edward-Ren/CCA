@@ -11,3 +11,4 @@ executable cca
         Yampa >=0.15 && <0.16
     default-language: Haskell2010
     default-extensions: Arrows
+    other-modules: FRPIntegral
